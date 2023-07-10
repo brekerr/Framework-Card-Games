@@ -11,9 +11,9 @@ Agents might need to blend in to the link time period
 
 Effects: change multiplier, attack portal, attack agent, generate token, skip a link add a link, stasis (move agent forward in time), blow cover (send agent back to hand) 
 
-Attributes: stealth 
+Attributes: stealth, quick, very quick, 
 
-Stats: defence, attack  
+Stats: (defence, attack), Influence, research
 
 Turn 
 
